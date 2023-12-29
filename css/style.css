@@ -182,7 +182,31 @@ body{
 }
 
 /* segunda seção Explore*/
-#principal #explore .segundo a{
-    font-size: 0.9em;
+#explore .segundo{
+    margin-top: 20px;
+    font-size: 1em;
+}
 
+.segundo .col-1{
+    float: left;
+    margin-left: 15px;
+    margin-right: 80px;
+}
+
+.segundo .col-2{
+    float: left;
+    margin-right: 80px;
+}
+
+.segundo .col-3{
+    float: left;
+    margin-bottom: 20px;
+}
+
+.segundo .take-vacation{
+    clear: both;
+}
+
+.segundo .take-vacation p{
+    text-align: center;
 }
