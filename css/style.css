@@ -117,6 +117,9 @@ body{
 }
 
 /* formatandos os conteúdos principais */
+#principal{
+    float: left;
+}
 #conteudos{
     margin-top: 20px;
 }
@@ -256,4 +259,67 @@ body{
 
 .end-section a{
     font-weight: bold;
+}
+
+/* formatando conteúdo da lateral */
+#lateral{
+    border: 1px solid #00cc00;
+    width: 270px;
+    margin-left: 4px;
+    float: left;
+}
+
+#lateral .tit-news{
+    background: #00cc00;
+    height: 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 30px;
+    text-indent: 5px;
+    letter-spacing: 1.5px;
+}
+
+#lateral .tit-help{
+    background: #00cc00;
+    height: 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 30px;
+    text-indent: 5px;
+    letter-spacing: 1.5px;
+}
+
+.news{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.news span{
+    font-weight: bold;
+}
+
+.help{
+    margin-top: 15px;
+    margin-left: 15px;
+    padding-bottom: 30px;
+}
+
+/* formatando o rodapé da página */
+#rodape{
+    clear: both;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+#rodape p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.9em;
+}
+
+#rodape h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 50px;
 }
