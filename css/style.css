@@ -162,7 +162,7 @@ body{
     height: 66px;
 }
 
-/* primeira seção Busca*/
+/* primeira seção Search Home Pages*/
 .conteudos #busca{
     width: 230px;
     height: 28px;
@@ -181,7 +181,7 @@ body{
     font-size: 1em;
 }
 
-/* segunda seção Explore*/
+/* segunda seção Explore Neighborhoods*/
 #explore .segundo{
     margin-top: 20px;
     font-size: 1em;
@@ -209,4 +209,51 @@ body{
 
 .segundo .take-vacation p{
     text-align: center;
+}
+
+/* terceira seção Cool Home Page Add-Ons */
+#cool-home .cool-1{
+    width: 252px;
+    margin-left: 15px;
+    margin-top: 20px;
+    float: left;
+}
+
+.cool-1 span{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.cool-1 a{
+    font-size: 0.9em;
+}
+
+#cool-home .cool-2{
+    width: 252px;
+    margin-top: 20px;
+    float: left;
+}
+
+.cool-2 span{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.cool-2 a{
+    font-size: 0.9em;
+}
+
+/* quarta seção Five Great Reasons to Get a Free Home Page */
+#five-reasons{
+    clear: both;
+}
+
+#five-reasons .end-section{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 435px;
+}
+
+.end-section a{
+    font-weight: bold;
 }
