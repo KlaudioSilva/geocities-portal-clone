@@ -1,0 +1,188 @@
+/* formatando o conteúdo */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+/* formatação do topo*/
+#container{
+    width: 800px;
+    margin: 0 auto;
+    /*border: 1px solid red;*/
+}
+
+#logo{
+    padding: 0;
+    margin: 0;
+    background: url(../images/logo-yahoo-geocities.png) no-repeat left center;
+    height: 70px;
+}
+
+#logo h1{
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    text-indent: -3000px;
+    float: left;
+}
+
+#logo .links-1{
+    width: 488px;
+    margin-left: 310px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align: right;
+    border-bottom: 1px solid gray;
+}
+
+#logo .links-1 a{
+    color: blue;
+}
+
+/* formatação do bem-vindo, cadastre-se, login */
+#welcome{
+    background: #f2f2f2;
+    height: 30px;
+}
+
+#welcome .welcome{
+    font-weight: bold;
+    margin-left: 10px;
+    line-height: 30px;
+}
+
+#welcome .free-page a{
+    margin-left: 400px;
+}
+
+#welcome .enviar-1{
+    align-items: ri;
+}
+
+#cabecalho .build{
+    width: 264px;
+    height: 94px;
+    background: #003399 url(../images/btn_build-page.png) no-repeat left center;
+    letter-spacing: 2px;
+    float: left;
+}
+
+#cabecalho .edit{
+    width: 264px;
+    height: 94px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background: #003399 url(../images/btn_edit-page.png) no-repeat left center;
+    letter-spacing: 2px;
+    float: left;
+}
+
+#cabecalho .upload{
+    width: 264px;
+    height: 94px;
+    background: #003399 url(../images/btn_upload-files.png) no-repeat left center;
+    letter-spacing: 2px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#cabecalho h3{
+    color: yellow;
+    text-transform: uppercase;
+    padding-top: 10px;
+    margin-left: 80px;
+}
+
+#cabecalho p{
+    color: #ffffff;
+    letter-spacing: normal;
+    padding-top: 10px;
+    margin-left: 80px;
+}
+
+/* formatação do link página membros */
+#returning{
+    clear: both;
+    border: 1px solid #003399;
+    background: #ffffcc;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/* formatandos os conteúdos principais */
+#conteudos{
+    margin-top: 20px;
+}
+
+#search{
+    height: 98px;
+    background: #ffffcc;
+    width: 524px;
+}
+
+#explore{
+    height: 182px;
+    background: #ffffcc;
+    width: 524px;
+}
+
+#cool-home{
+    height: 216px;
+    background: #ffffcc;
+    width: 524px;
+}
+
+#five-reasons{
+    height: 266px;
+    background: #ffffcc;
+    width: 524px;
+}
+
+.titulos{
+    width: 524px;
+    height: 30px;
+    background: #003399;
+    color: #ffffff;
+    line-height: 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    text-indent: 5px;
+}
+
+.conteudos{
+    width: 524px;
+    height: 66px;
+}
+
+/* primeira seção Busca*/
+.conteudos #busca{
+    width: 230px;
+    height: 28px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.conteudos #search{
+    width: 76px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background: #f2f2f2;
+    font-size: 1em;
+}
+
+/* segunda seção Explore*/
+#principal #explore .segundo a{
+    font-size: 0.9em;
+
+}
