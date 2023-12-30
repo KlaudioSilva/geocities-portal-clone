@@ -1,7 +1,16 @@
 # Yahoo! GeoCities Portal - clone
 Este repositório é parte da série de estudos onde faço clones de alguns sites ou portais reais.<br>
 
-<h2>Descrição</h2>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p><br>
+
+#:pin: <h2>Sobre o projeto</h2>
+
+<h4> 
+    :pin:  Projeto em construção  :pin:
+</h4>
+
 Bem vindo ao meu projeto de estudo de criação de um clone do portal Yahoo!GeoCities.
 
 Neste projeto tentei criar um clone com a aparência mais fielmente possível do portal Geocities do ano de 1999.
