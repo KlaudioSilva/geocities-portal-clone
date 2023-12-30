@@ -5,7 +5,7 @@ Este repositório é parte da série de estudos onde faço clones de alguns site
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p><br>
 
-:pencil2:<h2>Sobre o projeto</h2>
+:pencil2:##Sobre o projeto
 
 Bem vindo ao meu projeto de estudo de criação de um clone do portal Yahoo!GeoCities.
 
@@ -15,7 +15,7 @@ Para efeito de comparação, dentro da pasta  template está o pdf com a página
 
 Todo o projeto é uma visão estática usando apenas HTML e CSS. O portal original tinha elementos em JavaScript, mas como o meu objetivo primário era apenas o desafio de criar apenas uma página estática semelhante visualmente ao portal original e treinar minhas habilidades de programação, concluo que o resultado foi satisfatório.
 
-:bookmark_tabs:<h2>Técnologias utilizadas</h2>
+:bookmark_tabs:##Técnologias utilizadas
 
-<h3>Veja o projeto</h3>
+##Veja o projeto
 <a href="https://klaudiosilva.github.io/geocities-portal-clone/">Yahoo!GeoCities Clone</a>
