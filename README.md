@@ -28,3 +28,9 @@ Todo o projeto é uma visão estática usando apenas HTML e CSS. O portal origin
 
 ## :eyeglasses: Veja o projeto
 <a href="https://klaudiosilva.github.io/geocities-portal-clone/">Yahoo!GeoCities Clone</a>
+
+<br>
+
+## :heavy_exclamation_mark: Observações importantes
+Toda a concepção visual do portal GeoCities e os demais arquivos de imagens utilizados aqui, pertencem aos seus respectivos donos.
+Todo o trabalho desenvolvido aqui é de uso extritamente para exercícios e práticas de habilidade.
