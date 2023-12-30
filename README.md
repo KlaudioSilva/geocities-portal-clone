@@ -5,10 +5,10 @@ Este repositório é parte da série de estudos onde faço clones de alguns site
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p><br>
 
-#:pin: <h2>Sobre o projeto</h2>
+<h2>Sobre o projeto</h2>
 
 <h4> 
-    :pin:  Projeto em construção  :pin:
+    :hammer:  Projeto em construção  :hammer:
 </h4>
 
 Bem vindo ao meu projeto de estudo de criação de um clone do portal Yahoo!GeoCities.
